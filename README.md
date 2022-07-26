@@ -18,9 +18,9 @@ This site is used to find out what was read during the lessons in the **course**
 ## Code 201 - Foundations of Software Development
 ## Code 301 - Intermediate Software Development
 
-| Days  |  what i read about 	                                           |    	
+| Days  |  what i read about 	                              |    	
 |---	  |                                               ---	|	
-|  D01 	|   	                                                       |   	 	 	
+|  D01 	|  What is a component , What is a props            |   	 	 	
 |  D02 	|                                                 	|  	 	
 |  D03 	|  How to Pass Functions between Components,Lists and Keys   |     	 	
 
