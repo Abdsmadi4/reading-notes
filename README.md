@@ -18,7 +18,7 @@ This site is used to find out what was read during the lessons in the **course**
 ## Code 201 - Foundations of Software Development
 ## Code 301 - Intermediate Software Development
 
-| Days  |  what i learn 	                                           |    	
+| Days  |  what i read about 	                                           |    	
 |---	  |                                               ---	|	
 |  D01 	|   	                                                       |   	 	 	
 |  D02 	|                                                 	|  	 	
