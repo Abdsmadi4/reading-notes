@@ -21,8 +21,10 @@ This site is used to find out what was read during the lessons in the **course**
 | Days  |  what i read about 	                              |    	
 |---	  |                                               ---	|	
 |  D01 	|  What is a component , What is a props            |   	 	 	
-|  D02 	|   phases of the component lifecycle                                              	|  	 	
+|  D02 	|   phases of the component lifecycle             	|  	 	
 |  D03 	|  How to Pass Functions between Components,Lists and Keys   |     	 	
+|  D04 	|  react forms , Ternary Operator   |
+
 
 ## Code 401 - Advanced Software Development
 
