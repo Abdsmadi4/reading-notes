@@ -18,10 +18,10 @@ This site is used to find out what was read during the lessons in the **course**
 ## Code 201 - Foundations of Software Development
 ## Code 301 - Intermediate Software Development
 
-| Days  |  what i learn 	                            |    	
-|---	  |---	|---	|		
-|  D01 	|   	|   	|   	 	
-|  D02 	|   	|   	|   	 	
+| Days  |  what i learn 	                                           |    	
+|---	  |                                               ---	|	
+|  D01 	|   	                                                       |   	 	 	
+|  D02 	|                                                 	|  	 	
 |  D03 	|  How to Pass Functions between Components,Lists and Keys   |     	 	
 
 ## Code 401 - Advanced Software Development
