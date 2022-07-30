@@ -24,7 +24,7 @@ This site is used to find out what was read during the lessons in the **course**
 |  D02 	|   phases of the component lifecycle             	|  	 	
 |  D03 	|  How to Pass Functions between Components,Lists and Keys   |     	 	
 |  D04 	|  react forms , Ternary Operator   |
-|  D05 	|     |
+|  D05 	|  Thinking in React And Higher-Order Functions |
 |  D06 	|  Node.js   |
 
 
