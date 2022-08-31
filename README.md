@@ -32,4 +32,4 @@ This site is used to find out what was read during the lessons in the **course**
 ## Table of Contents for 401
 | Days  |       |
 | ---   |   --- |
-|  D01  |    [class 1](401/read01.md))   |
+|  D01  |    [class 1](401/read01.md)   |
