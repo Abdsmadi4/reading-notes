@@ -28,3 +28,8 @@ This site is used to find out what was read during the lessons in the **course**
 |  D12  |   [class 12](301/read12.md)    |
 |  D13  |   [class 13](301/read13.md)    |
 |  D14  |   [class 14](301/read14.md)    |
+
+## Table of Contents for 401
+| Days  |       |
+| ---   |   --- |
+|  D01  |    [class 1](401/read01.md))   |
