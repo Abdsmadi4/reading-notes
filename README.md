@@ -30,7 +30,9 @@ This site is used to find out what was read during the lessons in the **course**
 |  D14  |   [class 14](301/read14.md)    |
 
 ## Table of Contents for 401
+
 | Days  |       |
 | ---   |   --- |
 |  D01  |    [class 1](401/read01.md)   |
 |  D15  |    [Stack and Queues](401/StackAndQueues.md)   |
+|  ReactReducer  |    [ReactReducer](401/ReactReducer.md)   |
